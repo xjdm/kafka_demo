@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kafka_demo04_properties/kafka_demo04_properties.iml" filepath="$PROJECT_DIR$/kafka_demo04_properties/kafka_demo04_properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka_demo05_customSerializer/kafka_demo05_customSerializer.iml" filepath="$PROJECT_DIR$/kafka_demo05_customSerializer/kafka_demo05_customSerializer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka_demo06_customPartitioner/kafka_demo06_customPartitioner.iml" filepath="$PROJECT_DIR$/kafka_demo06_customPartitioner/kafka_demo06_customPartitioner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka_demo07_customInterceptor/kafka_demo07_customInterceptor.iml" filepath="$PROJECT_DIR$/kafka_demo07_customInterceptor/kafka_demo07_customInterceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka_demo08_customDeserializer/kafka_demo08_customDeserializer.iml" filepath="$PROJECT_DIR$/kafka_demo08_customDeserializer/kafka_demo08_customDeserializer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka_demo09_kafkaConsumerInterceptors/kafka_demo09_kafkaConsumerInterceptors.iml" filepath="$PROJECT_DIR$/kafka_demo09_kafkaConsumerInterceptors/kafka_demo09_kafkaConsumerInterceptors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka_demo1/kafka_demo1.iml" filepath="$PROJECT_DIR$/kafka_demo1/kafka_demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka_demo10_groupofsets/kafka_demo10_groupofsets.iml" filepath="$PROJECT_DIR$/kafka_demo10_groupofsets/kafka_demo10_groupofsets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka_demo11_test/kafka_demo11_test.iml" filepath="$PROJECT_DIR$/kafka_demo11_test/kafka_demo11_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka_demo12_tx/kafka_demo12_tx.iml" filepath="$PROJECT_DIR$/kafka_demo12_tx/kafka_demo12_tx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka_demo2/kafka_demo2.iml" filepath="$PROJECT_DIR$/kafka_demo2/kafka_demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka_demo3/kafka_demo3.iml" filepath="$PROJECT_DIR$/kafka_demo3/kafka_demo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka_demo_adminclient/kafka_demo_adminclient.iml" filepath="$PROJECT_DIR$/kafka_demo_adminclient/kafka_demo_adminclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka_demo_consumerOffsetMgr/kafka_demo_consumerOffsetMgr.iml" filepath="$PROJECT_DIR$/kafka_demo_consumerOffsetMgr/kafka_demo_consumerOffsetMgr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka_jmx/kafka_jmx.iml" filepath="$PROJECT_DIR$/kafka_jmx/kafka_jmx.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+# Project exclude paths
+/kafka_demo1/target/
+/kafka_demo05_customSerializer/target/
+/kafka_demo06_customPartitioner/target/
+/kafka_demo07_customInterceptor/target/
+/kafka_demo08_customDeserializer/target/
+/kafka_demo09_kafkaConsumerInterceptors/target/
+/kafka_demo10_groupofsets/target/
+/kafka_demo11_test/target/
+/kafka_demo12_tx/target/
+/kafka_demo_consumerOffsetMgr/target/

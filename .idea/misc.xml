@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/kafka-demo1/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka_demo2/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka_demo3/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka_demo03_properties/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka_demo04_properties/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka_demo_customSerializer/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka_demo05_customSerializer/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka_demo06_customPartitioner/pom.xml" />
+        <option value="$PROJECT_DIR$/../kafka_demo07_customInterceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka_demo07_customInterceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka_demo08_customDeserializer/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka_demo1/kafka_demo_consumerOffsetMgr/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka_demo_consumerOffsetMgr/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka_demo09_kafkaConsumerInterceptors/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka_demo_adminclient/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka_demo10_groupofsets/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka_demo12_tx/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka_demo11_test/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka_jmx/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
